@@ -14,7 +14,7 @@ defaults:
   values:
     permalink: "/:basename:output_ext"
 theme_version: 1.0.4
-logo: 
+logo: "/uploads/logo.jpg"
 description: Thoughts, Stories and Ideas
 baseurl: "/araizasphotography"
 url: https://araizasphoto.github.io/araizasphotography/
