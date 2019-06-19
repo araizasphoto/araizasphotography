@@ -9,4 +9,4 @@ Las sesiones de recién nacido se realizan dentro de los primeros 5-12 dias de s
 
 Para mas información mandame un mensajito.
 
-![photo1.jpg](/uploads/photo1.jpg)
+![Image](/images/posts/photo1.jpg)
