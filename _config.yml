@@ -2,11 +2,11 @@
 title: Araizas Photography
 timezone: UTC
 collections:
-  uploads:
-    title: Uploads
-    output: true
   posts:
     title: Posts
+    output: true
+  uploads:
+    title: Uploads
     output: true
 defaults:
 - scope:
