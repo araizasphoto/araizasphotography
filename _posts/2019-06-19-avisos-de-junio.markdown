@@ -2,6 +2,8 @@
 title: Avisos de Junio
 date: 2019-06-19 03:13:00 Z
 image: "/uploads/photo1.jpg"
+author: Nora
+featured: 'True'
 ---
 
 Agusto, con este frio en Junio!!!😁
