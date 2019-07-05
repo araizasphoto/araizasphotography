@@ -3,7 +3,6 @@ title: Avisos de Junio
 date: 2019-06-19 03:13:00 Z
 ---
 
-![photo1.jpg](/uploads/photo1.jpg)
 
 Agusto, con este frio en Junio!!!😁
 
