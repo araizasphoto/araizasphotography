@@ -21,7 +21,7 @@ url: https://araizasphoto.github.io/araizasphotography/
 facebook: https://www.facebook.com/Araizasphotography
 markdown: kramdown
 permalink: pretty
-paginate: 11
+paginate: 10
 sass:
   style: compressed
 gems:
