@@ -14,10 +14,10 @@ defaults:
   values:
     permalink: "/:basename:output_ext"
 theme_version: 1.0.4
-logo: "/araizasphotography/uploads/logo.jpg"
+logo: "/uploads/logo.jpg"
 description: Newborn, Kids, Engagement and Family Portraits
-baseurl: "/araizasphotography"
-url: https://araizasphoto.github.io/araizasphotography/
+#baseurl: "/araizasphotography"
+url: http://araizasphotography.siteleaf.net
 facebook: https://www.facebook.com/Araizasphotography
 markdown: kramdown
 permalink: pretty
@@ -41,4 +41,4 @@ authors:
     name: Nora Araiza
     bio: Newborn, Kids, Engagement and Family Portraits. San Diego/Tijuana area Photographer.
     email: araizasphotography@gmail.com
-    website: https://araizasphoto.github.io/araizasphotography/
+    website: http://araizasphotography.siteleaf.net
