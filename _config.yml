@@ -15,12 +15,10 @@ defaults:
     permalink: "/:basename:output_ext"
 theme_version: 1.0.4
 logo: "/araizasphotography/uploads/logo.jpg"
-description: Newborn, Kids, Engagement and Family Portraits 
+description: Newborn, Kids, Engagement and Family Portraits
 baseurl: "/araizasphotography"
 url: https://araizasphoto.github.io/araizasphotography/
-#twitter: https://twitter.com/aspirethemes
 facebook: https://www.facebook.com/Araizasphotography
-#instagram: https://www.instagram.com/aspirethemes
 markdown: kramdown
 permalink: pretty
 paginate: 11
@@ -42,8 +40,5 @@ authors:
   nora:
     name: Nora Araiza
     bio: Newborn, Kids, Engagement and Family Portraits. San Diego/Tijuana area Photographer.
-    #gravatar: https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
     email: araizasphotography@gmail.com
     website: https://araizasphoto.github.io/araizasphotography/
-    #github: https://github.com/aspirethemes
-    #twitter: https://twitter.com/aspirethemes
