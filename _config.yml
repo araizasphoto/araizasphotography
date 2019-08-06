@@ -16,8 +16,8 @@ defaults:
 theme_version: 1.0.4
 logo: "/uploads/logo.jpg"
 description: Newborn, Kids, Engagement and Family Portraits
-baseurl:' ' # The subpath of your site, e.g. /blog
-url: http://araizasphotography.siteleaf.net
+baseurl: ''
+url: ''
 facebook: https://www.facebook.com/Araizasphotography
 markdown: kramdown
 permalink: pretty
